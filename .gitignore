@@ -1,0 +1,26 @@
+# Varianta A rămâne doar local
+varianta-a.html
+VARIANTA-A.md
+assets/css/style.css
+assets/js/main.js
+assets/img/cut/baza-mask.png
+assets/img/cut/beauty-mask.png
+assets/img/cut/horeca-mask.png
+assets/img/cut/medical-mask.png
+assets/img/cut/k006.webp
+assets/img/photo/hero-b.jpg
+assets/img/photo/mes-amis.jpg
+
+# Resturi nefolosite de nicio pagină
+assets/img/cut/f008-mask.png
+assets/img/cut/hoodie-ovs-mask.png
+assets/img/cut/polo-w-mask.png
+assets/img/cut/k006-mask.png
+assets/img/cut/horeca-dark.webp
+assets/img/photo/hero-a.jpg
+
+# Local
+.claude/
+.DS_Store
+tools/embroider/resp.json
+tools/embroider/out-*.png
